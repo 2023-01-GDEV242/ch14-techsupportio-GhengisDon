@@ -113,6 +113,14 @@ public class Responder
                         "Ahhh, BlueJ, yes. We tried to buy out those guys long ago, but\n" +
                         "they simply won't sell... Stubborn people they are. Nothing we can\n" +
                         "do about it, I'm afraid.");
+        responseMap.put("disaster",
+                        "Status disasterous?\n"+
+                        "that quite literally sounds like a you problem\n"+
+                        "I am unaware of possibilities.");
+        responseMap.put("disasterous",
+                        "That sounds bad\n"+
+                        "not to mention extremely problematic\n"+
+                        "I am unaware of potential solutions which concern you.");
     }
 
     /**
